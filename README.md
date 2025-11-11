@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🌱 I’m currently learning react
+🌱 I’m currently learning typescript
+🌱 I’m currently learning next.js
+
 <!--
 **HongJH45/HongJH45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
