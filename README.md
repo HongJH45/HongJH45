@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 - 🌱 I’m currently learning react
 - 🌱 I’m currently learning typescript
 - 🌱 I’m currently learning next.js
